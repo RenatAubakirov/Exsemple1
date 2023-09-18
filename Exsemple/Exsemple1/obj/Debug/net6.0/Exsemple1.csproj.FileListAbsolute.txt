@@ -1,0 +1,15 @@
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\bin\Debug\net6.0\Exsemple1.exe
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\bin\Debug\net6.0\Exsemple1.deps.json
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\bin\Debug\net6.0\Exsemple1.runtimeconfig.json
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\bin\Debug\net6.0\Exsemple1.dll
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\bin\Debug\net6.0\Exsemple1.pdb
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\obj\Debug\net6.0\Exsemple1.csproj.AssemblyReference.cache
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\obj\Debug\net6.0\Exsemple1.GeneratedMSBuildEditorConfig.editorconfig
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\obj\Debug\net6.0\Exsemple1.AssemblyInfoInputs.cache
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\obj\Debug\net6.0\Exsemple1.AssemblyInfo.cs
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\obj\Debug\net6.0\Exsemple1.csproj.CoreCompileInputs.cache
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\obj\Debug\net6.0\Exsemple1.dll
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\obj\Debug\net6.0\refint\Exsemple1.dll
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\obj\Debug\net6.0\Exsemple1.pdb
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\obj\Debug\net6.0\Exsemple1.genruntimeconfig.cache
+D:\renat\lesson c#\Lesson1\Exsemple\Exsemple1\obj\Debug\net6.0\ref\Exsemple1.dll
